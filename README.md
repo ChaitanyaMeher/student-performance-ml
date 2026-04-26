@@ -1,6 +1,6 @@
 # 🎓 Student Performance Prediction Competition
 
-Welcome to my machine learning competition! Can you build the best model to predict whether a student will Pass (1) or Fail (0)?
+Welcome to my machine learning competition! Can you build the best model to predict whether a student will Pass (1) or Fail (0)? 
 
 ### 🏆 View the Live Leaderboard here: https://chaitanyameher.github.io/student-performance-ml/
 
