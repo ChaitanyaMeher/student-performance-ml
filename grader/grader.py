@@ -13,7 +13,8 @@ if not os.path.exists(truth_file):
     print("❌ Error: Secret labels not found. Contact Instructor.")
     exit(1)
 
-truth_df = pd.read_csv(truth_file)
+truth_df = pd.read_csv(truth_file, sep=None, engine='python')
+
 # If no 'id' column, create one from row index
 if 'id' not in truth_df.columns:
     truth_df['id'] = range(1, len(truth_df) + 1)
