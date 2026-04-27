@@ -18,5 +18,10 @@
     "group": "mathwadswaraj16-cpu",
     "f1_score": 0.9403,
     "accuracy": 0.8987
+  },
+  {
+    "group": "durveshr61-jpg",
+    "f1_score": 0.9403,
+    "accuracy": 0.8987
   }
 ]
